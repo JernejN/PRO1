@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D6D0BDD-42B0-4D55-BFE2-459DE72F8A2F}</ProjectGuid>
+    <ProjectGuid>{FE299511-C6C9-47C1-A216-740109076AE8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Prvi</RootNamespace>
-    <AssemblyName>Prvi</AssemblyName>
+    <RootNamespace>Vaja2</RootNamespace>
+    <AssemblyName>Vaja2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
