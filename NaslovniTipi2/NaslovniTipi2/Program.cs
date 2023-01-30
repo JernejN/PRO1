@@ -28,8 +28,6 @@ namespace NaslovniTipi2
             Console.WriteLine("Karta je: " + k + " z vrednostjo " + v);
             Console.ReadLine();
 
-
-
         }
     }
 }
