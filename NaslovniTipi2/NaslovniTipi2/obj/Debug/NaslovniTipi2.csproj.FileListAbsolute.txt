@@ -1,0 +1,8 @@
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\bin\Debug\NaslovniTipi2.exe.config
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\bin\Debug\NaslovniTipi2.exe
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\bin\Debug\NaslovniTipi2.pdb
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\obj\Debug\NaslovniTipi2.csproj.AssemblyReference.cache
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\obj\Debug\NaslovniTipi2.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\obj\Debug\NaslovniTipi2.csproj.CoreCompileInputs.cache
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\obj\Debug\NaslovniTipi2.exe
+D:\PRO1\NaslovniTipi2\NaslovniTipi2\obj\Debug\NaslovniTipi2.pdb

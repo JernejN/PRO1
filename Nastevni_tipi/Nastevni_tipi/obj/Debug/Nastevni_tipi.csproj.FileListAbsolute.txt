@@ -1,0 +1,8 @@
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\bin\Debug\Nastevni_tipi.exe.config
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\bin\Debug\Nastevni_tipi.exe
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\bin\Debug\Nastevni_tipi.pdb
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\obj\Debug\Nastevni_tipi.csproj.AssemblyReference.cache
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\obj\Debug\Nastevni_tipi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\obj\Debug\Nastevni_tipi.csproj.CoreCompileInputs.cache
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\obj\Debug\Nastevni_tipi.exe
+D:\PRO1\Nastevni_tipi\Nastevni_tipi\obj\Debug\Nastevni_tipi.pdb
