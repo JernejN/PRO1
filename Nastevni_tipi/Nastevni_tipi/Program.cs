@@ -20,9 +20,10 @@ namespace Nastevni_tipi
             Console.WriteLine("Izberite tip klica: 1-mobilno, 2-stacionarno");
             string klic = Console.ReadLine();
             int tip = int.Parse(klic);
+            TipKlica t = (TipKlica)tip;
             Console.WriteLine("Vpišite stevilo minut pogovora");
             int minute = Convert.ToInt32(Console.ReadLine());
-            if (tip.Equals(1))
+            if (t == 1 + TipKlica.mobilno)
             {
 
                 double znesek = minute * 0.03;

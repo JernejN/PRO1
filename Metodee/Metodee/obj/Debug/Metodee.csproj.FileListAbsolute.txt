@@ -1,0 +1,8 @@
+D:\PRO1\Metodee\Metodee\bin\Debug\Metodee.exe.config
+D:\PRO1\Metodee\Metodee\bin\Debug\Metodee.exe
+D:\PRO1\Metodee\Metodee\bin\Debug\Metodee.pdb
+D:\PRO1\Metodee\Metodee\obj\Debug\Metodee.csproj.AssemblyReference.cache
+D:\PRO1\Metodee\Metodee\obj\Debug\Metodee.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Metodee\Metodee\obj\Debug\Metodee.csproj.CoreCompileInputs.cache
+D:\PRO1\Metodee\Metodee\obj\Debug\Metodee.exe
+D:\PRO1\Metodee\Metodee\obj\Debug\Metodee.pdb
