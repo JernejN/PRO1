@@ -1,0 +1,8 @@
+D:\PRO1\VajaZanke1\VajaZanke1\bin\Debug\VajaZanke1.exe.config
+D:\PRO1\VajaZanke1\VajaZanke1\bin\Debug\VajaZanke1.exe
+D:\PRO1\VajaZanke1\VajaZanke1\bin\Debug\VajaZanke1.pdb
+D:\PRO1\VajaZanke1\VajaZanke1\obj\Debug\VajaZanke1.csproj.AssemblyReference.cache
+D:\PRO1\VajaZanke1\VajaZanke1\obj\Debug\VajaZanke1.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaZanke1\VajaZanke1\obj\Debug\VajaZanke1.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaZanke1\VajaZanke1\obj\Debug\VajaZanke1.exe
+D:\PRO1\VajaZanke1\VajaZanke1\obj\Debug\VajaZanke1.pdb
