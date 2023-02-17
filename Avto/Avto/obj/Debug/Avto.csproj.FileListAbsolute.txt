@@ -1,0 +1,8 @@
+D:\PRO1\Avto\Avto\bin\Debug\Avto.exe.config
+D:\PRO1\Avto\Avto\bin\Debug\Avto.exe
+D:\PRO1\Avto\Avto\bin\Debug\Avto.pdb
+D:\PRO1\Avto\Avto\obj\Debug\Avto.csproj.AssemblyReference.cache
+D:\PRO1\Avto\Avto\obj\Debug\Avto.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Avto\Avto\obj\Debug\Avto.csproj.CoreCompileInputs.cache
+D:\PRO1\Avto\Avto\obj\Debug\Avto.exe
+D:\PRO1\Avto\Avto\obj\Debug\Avto.pdb

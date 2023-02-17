@@ -1,0 +1,8 @@
+D:\PRO1\Denarnica\Denarnica\bin\Debug\Denarnica.exe.config
+D:\PRO1\Denarnica\Denarnica\bin\Debug\Denarnica.exe
+D:\PRO1\Denarnica\Denarnica\bin\Debug\Denarnica.pdb
+D:\PRO1\Denarnica\Denarnica\obj\Debug\Denarnica.csproj.AssemblyReference.cache
+D:\PRO1\Denarnica\Denarnica\obj\Debug\Denarnica.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Denarnica\Denarnica\obj\Debug\Denarnica.csproj.CoreCompileInputs.cache
+D:\PRO1\Denarnica\Denarnica\obj\Debug\Denarnica.exe
+D:\PRO1\Denarnica\Denarnica\obj\Debug\Denarnica.pdb

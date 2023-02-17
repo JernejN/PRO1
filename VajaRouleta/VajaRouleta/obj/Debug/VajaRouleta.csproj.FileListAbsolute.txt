@@ -1,0 +1,8 @@
+D:\PRO1\VajaRouleta\VajaRouleta\bin\Debug\VajaRouleta.exe.config
+D:\PRO1\VajaRouleta\VajaRouleta\bin\Debug\VajaRouleta.exe
+D:\PRO1\VajaRouleta\VajaRouleta\bin\Debug\VajaRouleta.pdb
+D:\PRO1\VajaRouleta\VajaRouleta\obj\Debug\VajaRouleta.csproj.AssemblyReference.cache
+D:\PRO1\VajaRouleta\VajaRouleta\obj\Debug\VajaRouleta.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaRouleta\VajaRouleta\obj\Debug\VajaRouleta.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaRouleta\VajaRouleta\obj\Debug\VajaRouleta.exe
+D:\PRO1\VajaRouleta\VajaRouleta\obj\Debug\VajaRouleta.pdb
