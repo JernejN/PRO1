@@ -1,0 +1,8 @@
+D:\PRO1\VajaLiki\VajaLiki\bin\Debug\VajaLiki.exe.config
+D:\PRO1\VajaLiki\VajaLiki\bin\Debug\VajaLiki.exe
+D:\PRO1\VajaLiki\VajaLiki\bin\Debug\VajaLiki.pdb
+D:\PRO1\VajaLiki\VajaLiki\obj\Debug\VajaLiki.csproj.AssemblyReference.cache
+D:\PRO1\VajaLiki\VajaLiki\obj\Debug\VajaLiki.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaLiki\VajaLiki\obj\Debug\VajaLiki.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaLiki\VajaLiki\obj\Debug\VajaLiki.exe
+D:\PRO1\VajaLiki\VajaLiki\obj\Debug\VajaLiki.pdb

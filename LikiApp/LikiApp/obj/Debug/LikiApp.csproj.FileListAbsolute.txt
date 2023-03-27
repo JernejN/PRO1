@@ -1,0 +1,11 @@
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.csproj.AssemblyReference.cache
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.Properties.Resources.resources
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.csproj.GenerateResource.cache
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.csproj.CoreCompileInputs.cache
+D:\PRO1\LikiApp\LikiApp\bin\Debug\LikiApp.exe.config
+D:\PRO1\LikiApp\LikiApp\bin\Debug\LikiApp.exe
+D:\PRO1\LikiApp\LikiApp\bin\Debug\LikiApp.pdb
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.Form1.resources
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.exe
+D:\PRO1\LikiApp\LikiApp\obj\Debug\LikiApp.pdb

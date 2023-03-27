@@ -1,0 +1,8 @@
+D:\PRO1\VajaTable2\VajaTable2\bin\Debug\VajaTable2.exe.config
+D:\PRO1\VajaTable2\VajaTable2\bin\Debug\VajaTable2.exe
+D:\PRO1\VajaTable2\VajaTable2\bin\Debug\VajaTable2.pdb
+D:\PRO1\VajaTable2\VajaTable2\obj\Debug\VajaTable2.csproj.AssemblyReference.cache
+D:\PRO1\VajaTable2\VajaTable2\obj\Debug\VajaTable2.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaTable2\VajaTable2\obj\Debug\VajaTable2.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaTable2\VajaTable2\obj\Debug\VajaTable2.exe
+D:\PRO1\VajaTable2\VajaTable2\obj\Debug\VajaTable2.pdb

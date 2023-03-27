@@ -1,0 +1,8 @@
+D:\PRO1\Sprehod\Sprehod\bin\Debug\Sprehod.exe.config
+D:\PRO1\Sprehod\Sprehod\bin\Debug\Sprehod.exe
+D:\PRO1\Sprehod\Sprehod\bin\Debug\Sprehod.pdb
+D:\PRO1\Sprehod\Sprehod\obj\Debug\Sprehod.csproj.AssemblyReference.cache
+D:\PRO1\Sprehod\Sprehod\obj\Debug\Sprehod.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Sprehod\Sprehod\obj\Debug\Sprehod.csproj.CoreCompileInputs.cache
+D:\PRO1\Sprehod\Sprehod\obj\Debug\Sprehod.exe
+D:\PRO1\Sprehod\Sprehod\obj\Debug\Sprehod.pdb

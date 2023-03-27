@@ -1,0 +1,8 @@
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\bin\Debug\VajaAbstrakt.exe.config
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\bin\Debug\VajaAbstrakt.exe
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\bin\Debug\VajaAbstrakt.pdb
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\obj\Debug\VajaAbstrakt.csproj.AssemblyReference.cache
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\obj\Debug\VajaAbstrakt.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\obj\Debug\VajaAbstrakt.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\obj\Debug\VajaAbstrakt.exe
+D:\PRO1\VajaAbstrakt\VajaAbstrakt\obj\Debug\VajaAbstrakt.pdb

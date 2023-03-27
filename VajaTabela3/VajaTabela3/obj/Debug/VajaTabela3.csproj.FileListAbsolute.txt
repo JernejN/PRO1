@@ -1,0 +1,8 @@
+D:\PRO1\VajaTabela3\VajaTabela3\obj\Debug\VajaTabela3.csproj.AssemblyReference.cache
+D:\PRO1\VajaTabela3\VajaTabela3\obj\Debug\VajaTabela3.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaTabela3\VajaTabela3\obj\Debug\VajaTabela3.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaTabela3\VajaTabela3\bin\Debug\VajaTabela3.exe.config
+D:\PRO1\VajaTabela3\VajaTabela3\bin\Debug\VajaTabela3.exe
+D:\PRO1\VajaTabela3\VajaTabela3\bin\Debug\VajaTabela3.pdb
+D:\PRO1\VajaTabela3\VajaTabela3\obj\Debug\VajaTabela3.exe
+D:\PRO1\VajaTabela3\VajaTabela3\obj\Debug\VajaTabela3.pdb

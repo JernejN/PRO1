@@ -1,0 +1,8 @@
+D:\PRO1\MinolovecK\MinolovecK\bin\Debug\MinolovecK.exe.config
+D:\PRO1\MinolovecK\MinolovecK\bin\Debug\MinolovecK.exe
+D:\PRO1\MinolovecK\MinolovecK\bin\Debug\MinolovecK.pdb
+D:\PRO1\MinolovecK\MinolovecK\obj\Debug\MinolovecK.csproj.AssemblyReference.cache
+D:\PRO1\MinolovecK\MinolovecK\obj\Debug\MinolovecK.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\MinolovecK\MinolovecK\obj\Debug\MinolovecK.csproj.CoreCompileInputs.cache
+D:\PRO1\MinolovecK\MinolovecK\obj\Debug\MinolovecK.exe
+D:\PRO1\MinolovecK\MinolovecK\obj\Debug\MinolovecK.pdb

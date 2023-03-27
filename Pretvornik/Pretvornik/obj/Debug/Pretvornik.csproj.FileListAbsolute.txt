@@ -1,0 +1,11 @@
+D:\PRO1\Pretvornik\Pretvornik\bin\Debug\Pretvornik.exe.config
+D:\PRO1\Pretvornik\Pretvornik\bin\Debug\Pretvornik.exe
+D:\PRO1\Pretvornik\Pretvornik\bin\Debug\Pretvornik.pdb
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.csproj.AssemblyReference.cache
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.Pretvornik.resources
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.Properties.Resources.resources
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.csproj.GenerateResource.cache
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.csproj.CoreCompileInputs.cache
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.exe
+D:\PRO1\Pretvornik\Pretvornik\obj\Debug\Pretvornik.pdb

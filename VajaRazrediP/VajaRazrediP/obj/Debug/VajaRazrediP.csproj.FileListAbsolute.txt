@@ -1,0 +1,8 @@
+D:\PRO1\VajaRazrediP\VajaRazrediP\bin\Debug\VajaRazrediP.exe.config
+D:\PRO1\VajaRazrediP\VajaRazrediP\bin\Debug\VajaRazrediP.exe
+D:\PRO1\VajaRazrediP\VajaRazrediP\bin\Debug\VajaRazrediP.pdb
+D:\PRO1\VajaRazrediP\VajaRazrediP\obj\Debug\VajaRazrediP.csproj.AssemblyReference.cache
+D:\PRO1\VajaRazrediP\VajaRazrediP\obj\Debug\VajaRazrediP.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaRazrediP\VajaRazrediP\obj\Debug\VajaRazrediP.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaRazrediP\VajaRazrediP\obj\Debug\VajaRazrediP.exe
+D:\PRO1\VajaRazrediP\VajaRazrediP\obj\Debug\VajaRazrediP.pdb

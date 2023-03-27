@@ -1,0 +1,11 @@
+D:\PRO1\Pretvorba\Pretvorba\bin\Debug\Pretvorba.exe.config
+D:\PRO1\Pretvorba\Pretvorba\bin\Debug\Pretvorba.exe
+D:\PRO1\Pretvorba\Pretvorba\bin\Debug\Pretvorba.pdb
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.csproj.AssemblyReference.cache
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.Form1.resources
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.Properties.Resources.resources
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.csproj.GenerateResource.cache
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.csproj.CoreCompileInputs.cache
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.exe
+D:\PRO1\Pretvorba\Pretvorba\obj\Debug\Pretvorba.pdb

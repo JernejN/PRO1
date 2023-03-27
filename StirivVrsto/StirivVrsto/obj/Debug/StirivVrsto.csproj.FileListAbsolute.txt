@@ -1,0 +1,11 @@
+D:\PRO1\StirivVrsto\StirivVrsto\bin\Debug\StirivVrsto.exe.config
+D:\PRO1\StirivVrsto\StirivVrsto\bin\Debug\StirivVrsto.exe
+D:\PRO1\StirivVrsto\StirivVrsto\bin\Debug\StirivVrsto.pdb
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.csproj.AssemblyReference.cache
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.Form1.resources
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.Properties.Resources.resources
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.csproj.GenerateResource.cache
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.csproj.CoreCompileInputs.cache
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.exe
+D:\PRO1\StirivVrsto\StirivVrsto\obj\Debug\StirivVrsto.pdb

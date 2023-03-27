@@ -1,0 +1,11 @@
+D:\PRO1\Fotografije\Fotografije\bin\Debug\Fotografije.exe.config
+D:\PRO1\Fotografije\Fotografije\bin\Debug\Fotografije.exe
+D:\PRO1\Fotografije\Fotografije\bin\Debug\Fotografije.pdb
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.csproj.AssemblyReference.cache
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.Form1.resources
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.Properties.Resources.resources
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.csproj.GenerateResource.cache
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.csproj.CoreCompileInputs.cache
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.exe
+D:\PRO1\Fotografije\Fotografije\obj\Debug\Fotografije.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikiApp", "LikiApp\LikiApp.csproj", "{05A5D6A9-2B1D-424A-A55A-6BA007F3E049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A5D6A9-2B1D-424A-A55A-6BA007F3E049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A5D6A9-2B1D-424A-A55A-6BA007F3E049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A5D6A9-2B1D-424A-A55A-6BA007F3E049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A5D6A9-2B1D-424A-A55A-6BA007F3E049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE563E5-249B-4880-BFD2-0AFBF4CD1168}
+	EndGlobalSection
+EndGlobal
